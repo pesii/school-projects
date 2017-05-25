@@ -5,6 +5,7 @@
 #define SORTED 1
 #define NOT_SORTED 0
 
+// YOYO 
 void printList(int feed[], int feedSize){
 	printf("{");
 	for(int i=0; i<feedSize; i++){

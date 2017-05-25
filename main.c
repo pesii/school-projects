@@ -5,6 +5,8 @@ int main(void)
 	int num_elements = 0, temp = 0, status = 0, index = 1337;
 // Pesi!
 
+// Ready to merge!
+
 	printf("Bubble Sort and Binary Search\n\n");
 	printf("How many elements would you like: ");
 	scanf("%d", &num_elements);
